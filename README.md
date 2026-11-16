@@ -12,6 +12,8 @@ Přehled veřejných hlášení z MUNIPOLIS podle exportu z 16. listopadu 2026.
 
 ## Interaktivní přehled
 
+[Otevřít přehled na GitHub Pages](https://vojtan.github.io/reportsview/)
+
 Stáhněte repozitář přes **Code → Download ZIP** a rozbalte ho. V prohlížeči otevřete soubor `prehled/dist/index.html`. Přehled, filtry, detaily hlášení, fotografie a mapa ulic fungují přímo z disku bez serveru.
 
 [Návod k použití a aktualizaci přehledu](prehled/README.md)
